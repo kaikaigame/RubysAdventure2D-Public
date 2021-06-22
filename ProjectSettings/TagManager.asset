@@ -1,0 +1,70 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags: []
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - Background
+  - NPC
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: Background
+    uniqueID: 2330994507
+    locked: 0
+  - name: Trap
+    uniqueID: 1254858739
+    locked: 0
+  - name: Shadow
+    uniqueID: 2401701163
+    locked: 0
+  - name: Building
+    uniqueID: 4123770617
+    locked: 0
+  - name: Environmnent
+    uniqueID: 3641347029
+    locked: 0
+  - name: Enemy
+    uniqueID: 661393331
+    locked: 0
+  - name: NPC
+    uniqueID: 2339310871
+    locked: 0
+  - name: Player
+    uniqueID: 2350871917
+    locked: 0
+  - name: Item
+    uniqueID: 2472092553
+    locked: 0
