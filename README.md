@@ -12,7 +12,7 @@ https://assetstore.unity.com/packages/essentials/asset-packs/2d-beginner-tutoria
   
 https://assetstore.unity.com/packages/essentials/tutorial-projects/2d-beginner-complete-project-140253  
   
-Unity m_EditorVersion:  2021.1.20f1  
+Unity m_EditorVersion:  2021.2.0f1  
   
 KEYBOARD  
 UP: w or up  
